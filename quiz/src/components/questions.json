@@ -1,0 +1,106 @@
+[{
+    "question": "Which is the only mammal that can’t jump?",
+    "optionA": "Dog",
+    "optionB": "Elephant",
+    "optionC": "Goat",
+    "optionD": "Lion",
+    "answer": "Elephant"
+}, {
+    "question": "Who is bhagat singh?",
+    "optionA": "freedom fighter",
+    "optionB": "Farmer",
+    "optionC": "Engineer",
+    "optionD": "Doctor",
+    "answer": "freedom fighter"
+}, {
+    "question": "Which is the capital of India?",
+    "optionA": "Delhi",
+    "optionB": "Mysore",
+    "optionC": "Mumbai",
+    "optionD": "Kolkata",
+    "answer": "Delhi"
+}, {
+    "question": "Which is the most poisonous animal on earth?",
+    "optionA": "Dog",
+    "optionB": "Elephant",
+    "optionC": "Goat",
+    "optionD": "Frog",
+    "answer": "Frog"
+}, {
+    "question": "Where is italy located?",
+    "optionA": "USA",
+    "optionB": "Europe",
+    "optionC": "Australia",
+    "optionD": "Asia",
+    "answer": "Europe"
+}, {
+    "question": "Who is the prime minister of India?",
+    "optionA": "Modi",
+    "optionB": "Sonia Gandhi",
+    "optionC": "Rahul gandhi",
+    "optionD": "Man mohan singh",
+    "answer": "Modi"
+}, {
+    "question": "What is the unit of force?",
+    "optionA": "Newton",
+    "optionB": "Volts",
+    "optionC": "Hertz",
+    "optionD": "Ampere",
+    "answer": "Newton"
+}, {
+    "question": "What is the currency of Korea?",
+    "optionA": "Rupee",
+    "optionB": "Won",
+    "optionC": "Dollar",
+    "optionD": "Euro",
+    "answer": "Won"
+}, {
+    "question": "Hitler party which came into power in 1933 is known as? ",
+    "optionA": "Labor party",
+    "optionB": "Nazi party",
+    "optionC": "Democratic party",
+    "optionD": "ku-klux party",
+    "answer": "Nazi party"
+}, {
+    "question": "What is the day after christmas commanly known as?",
+    "optionA": "Boxing day",
+    "optionB": "Caroling day",
+    "optionC": "Shopping day",
+    "optionD": "Prayer day",
+    "answer": "Boxing day"
+}, {
+    "question": "Who wrote Hamlet?",
+    "optionA": "Walt Whitman",
+    "optionB": "William Shakespeare",
+    "optionC": "Franz Kafka",
+    "optionD": "Leonardo da vinci",
+    "answer": "William Shakespeare"
+}, {
+    "question": "In which year did world war end?",
+    "optionA": "1942",
+    "optionB": "1945",
+    "optionC": "1947",
+    "optionD": "1944",
+    "answer": "1945"
+}, {
+    "question": "Ottawa is the capital of which country?",
+    "optionA": "Cannada",
+    "optionB": "Australia",
+    "optionC": "England",
+    "optionD": "Japan",
+    "answer": "Cannada"
+}, {
+    "question": "Which is the tallest waterfalls in the world?",
+    "optionA": "niagara falls",
+    "optionB": "Angels falls",
+    "optionC": "Gocta falls",
+    "optionD": "Kunchikal falls",
+    "answer": "Angels falls"
+}, {
+    "question": "Pride and Prejudice written by?",
+    "optionA": "Shakespeare",
+    "optionB": "Jane Austin",
+    "optionC": "Anna todd",
+    "optionD": "Sophie Kensella",
+    "answer": "Jane Austin"
+}]
